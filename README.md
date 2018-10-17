@@ -1,4 +1,4 @@
-### This is my website related repo where I publish trading algorithms (on S&P500 stocks and market indexes) that used to be historically profitable, for educational purposes, using only Numpy, Scipy and Pandas (and Requests to obtain data from Yahoo Finance)
+#### This is my website related repo where I publish trading algorithms (on S&P500 stocks and market indexes) that used to be historically profitable, for educational purposes only, using only Numpy, Scipy and Pandas (and Requests to obtain data from Yahoo Finance)
 
 #### [Geographical Diversification](GeographicDiversification.ipynb) - A demonstration on the effects of international diversification, with an optimization example on how to obtain an optimally risk adjusted portfolio (maximizing sharpe) between several market indexes
 
