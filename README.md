@@ -11,4 +11,4 @@ I'm Leonardo, a 22 year old that just graduated from a Corporate Finance BS, loo
 Feel free to email me if you have any doubt, suggestion, critique or proposal - contact[at]leonardofilipe.com
 
 #### License
-This code has been released under the [Apache 2.0 License](LICENSE).
+This code has been released under the [Apache 2.0 License](LICENSE)
