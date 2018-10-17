@@ -6,4 +6,4 @@
 
 [Long Only Pairs Trading](LongOnlyPairsTrading.ipynb) - A demonstration of a long only pairs trading strategy between Coca Cola (KO) and Pepsico (PEP) focused on minimizing weighted median drawdown
 
-[Long Short Pairs Trading](LongShortPairsTrading.ipynb) - A illustrative example of a long short pairs trading strategy with different holding periods
+[Long Short Pairs Trading](LongShortPairsTrading.ipynb) - A illustrative example of a long short pairs strategy with different holding periods
