@@ -1,4 +1,4 @@
-#### This is [my website](https://leonardofilipe.com/) related repo where I publish trading algorithms (on S&P500 stocks and market indexes) that used to be historically profitable, for educational purposes, using only Numpy, Scipy and Pandas (and Requests to obtain data from Yahoo Finance)
+#### This is [my website](https://leonardofilipe.com/) related repo where I publish trading algorithms (on S&P500 stocks and market indexes) written in Python, that used to be historically profitable for educational purposes, using only Numpy, Scipy and Pandas (and Requests to obtain data from Yahoo Finance)
 [Long Short Pairs Trading](LongShortPairsTrading.ipynb) - A illustrative example of a long short pairs strategy with different holding
 periods
 
