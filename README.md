@@ -11,7 +11,7 @@ periods between Coca Cola (KO) and Pepsico (PEP)
 #### Who am I?
 I'm Leonardo, a 22 year old that just graduated from a Corporate Finance BS, looking to educate people on investment strategies and hopefuly find a challenging and equally rewarding job!
 
-Feel free to contact me if you have any doubt, suggestion, critique or proposal - contact[at]leonardofilipe.com
+Feel free to email me if you have any doubt, suggestion, critique or proposal - contact[at]leonardofilipe[dot]com
 
 #### License
 This code has been released under the [Apache 2.0 License](LICENSE).
