@@ -6,7 +6,7 @@
 [Geographical Diversification](GeographicDiversification.ipynb) - An illustrative example on the effects of international diversification, with a demonstration on how to optimize the weights of the various holdings in order to obtain an optimally risk adjusted portfolio (maximizing sharpe) between several market indexes
 
 #### Who am I?
-I'm Leonardo, a 22 year old that just graduated from a Corporate Finance BS, looking to educate people on investment strategies and hopefuly find a challenging and equally rewarding job!
+I'm Leonardo, a 22 year old that just graduated from a Corporate Finance BS, looking to share my insights on quantitative investment strategies and hopefuly find a challenging and equally rewarding job!
 
 Feel free to email me if you have any doubt, suggestion, critique or proposal - contact[at]leonardofilipe.com
 
