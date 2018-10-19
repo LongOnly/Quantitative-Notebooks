@@ -3,7 +3,7 @@
 
 [Dynamic Asset Allocation](DynamicAssetAllocation.ipynb) - A demonstration on how to dynamically allocate capital between assets of a hypothetical portfolio conditionally in order to maximize historical return
 
-[Geographical Diversification](GeographicDiversification.ipynb) - An illustrative example on the effects of international diversification, with a demonstration on how to optimize the weights of the various holdings in order to obtain an optimally risk adjusted portfolio (maximizing sharpe) between several market indexes
+[Geographical Diversification](GeographicDiversification.ipynb) - An illustrative example on the effects of international diversification, with a demonstration on how to optimize the weights of the various holdings in order to obtain an "optimally risk adjusted portfolio" (maximizing sharpe) between several market indexes
 
 #### Who am I?
 I'm Leonardo, a 22 year old that just graduated from a Corporate Finance BS, looking forward to share (some) of my insights on quantitative investment strategies and new challenges!
