@@ -1,4 +1,4 @@
-#### This is [my website](https://www.leonardofilipe.com) related repo where I publish trading algorithms written in Python (on S&P500 stocks and market indexes) that used to be historically profitable, for educational purposes, using only Numpy, Scipy and Pandas (and Requests to obtain data from Yahoo Finance)
+#### This is [my website](https://www.leonardofilipe.com) related repo where I publish trading algorithms written in Python (on S&P500 stocks and market indexes) that used to be historically profitable ~~(overfitted)~~, **for educational purposes** or just idea generation, using only Numpy, Scipy and Pandas (and Requests to obtain data from Yahoo Finance)
 [Long Only Pairs Trading](PairsTrading.ipynb) - An illustrative example of a long only pairs trading strategy focused on minimizing weighted median drawdown with different holding periods between Coca Cola (KO) and Pepsico (PEP)
 
 [Dynamic Asset Allocation](DynamicAssetAllocation.ipynb) - A demonstration on how to dynamically allocate capital between assets of a hypothetical portfolio conditionally in order to maximize historical return
