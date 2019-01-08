@@ -2,11 +2,7 @@
 
 #### The main objective is to be educational and help with idea generation, they're not appropriate for consumption since they are ~~overfitted~~ optimized but I'm aiming to publish some content on validation soon
 
-Dependencies:
-Numpy
-Scipy
-Pandas
-Requests (for fetching Yahoo Finance data)
+Dependencies: Numpy; Scipy; Pandas and Requests (for fetching Yahoo Finance data)
 
 [Long Only Pairs Trading](PairsTrading.ipynb) - An illustrative example of a long only pairs trading strategy focused on minimizing weighted median drawdown with different holding periods between Coca Cola (KO) and Pepsico (PEP)
 
