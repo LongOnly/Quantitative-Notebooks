@@ -10,7 +10,7 @@ Dependencies: Numpy; Scipy; Pandas and Requests (for fetching Yahoo Finance data
 
 [Geographical Diversification](GeographicDiversification.ipynb) - An illustrative example on the effects of international diversification, with a demonstration on how to optimize the weights of the various holdings in order to obtain an "optimally risk adjusted portfolio" (maximizing sharpe) between several market indexes
 
-Market data last updated at 14/12/2018
+Market data last updated at 30/01/2019
 
 #### Who am I?
 I'm Leonardo, a 22 year old that just graduated from a Corporate Finance BS, looking forward to share (some) of my insights on quantitative investment strategies
