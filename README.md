@@ -4,12 +4,14 @@
 
 Dependencies: Numpy; Scipy; Pandas; Matplotlib and Requests (for fetching Yahoo Finance data)
 
-Difficulty
+####Difficulty
 
 Basic:
+
 [Long Only Pairs Trading](PairsTrading.ipynb) - A simple pairs trading strategy focused on buying the loser! Signal is given by rolling correlation
 
 Introductory:
+
 [Dynamic Asset Allocation](DynamicAssetAllocation.ipynb) - Encouraging dynamic capital allocation (not rebalacing)! [#Think Bayes](https://github.com/AllenDowney/ThinkBayes2)
 
 [Geographical Diversification](GeographicDiversification.ipynb) - Hello (Financial) World
