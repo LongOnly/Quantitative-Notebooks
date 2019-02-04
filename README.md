@@ -2,20 +2,24 @@
 
 #### The main objective is to be educational and help with idea generation, they're not appropriate for consumption since they are ~~overfitted~~ optimized but I'm aiming to publish some content on validation soon
 
-Dependencies: Numpy; Scipy; Pandas and Requests (for fetching Yahoo Finance data)
+Dependencies: Numpy; Scipy; Pandas; Matplotlib and Requests (for fetching Yahoo Finance data)
 
-[Long Only Pairs Trading](PairsTrading.ipynb) - An illustrative example of a long only pairs trading strategy focused on minimizing weighted median drawdown with different holding periods between Coca Cola (KO) and Pepsico (PEP)
+Difficulty
 
-[Dynamic Asset Allocation](DynamicAssetAllocation.ipynb) - A demonstration on how to dynamically allocate capital between assets of a hypothetical portfolio conditionally in order to maximize historical return
+Basic:
+[Long Only Pairs Trading](PairsTrading.ipynb) - A simple pairs trading strategy focused on buying the loser! Signal is given by rolling correlation
 
-[Geographical Diversification](GeographicDiversification.ipynb) - An illustrative example on the effects of international diversification, with a demonstration on how to optimize the weights of the various holdings in order to obtain an "optimally risk adjusted portfolio" (maximizing sharpe) between several market indexes
+Introductory:
+[Dynamic Asset Allocation](DynamicAssetAllocation.ipynb) - Encouraging dynamic capital allocation (not rebalacing)! [#Think Bayes](https://github.com/AllenDowney/ThinkBayes2)
 
-Market data last updated at 30/01/2019
+[Geographical Diversification](GeographicDiversification.ipynb) - Hello (Financial) World
+
+Market data last updated at 1 February 2019
 
 #### Who am I?
 I'm Leonardo, a 22 year old that just graduated from a Corporate Finance BS, looking forward to share (some) of my insights on quantitative investment strategies
 
-Feel free to email me if you have any doubt, suggestion, critique or proposal - contact[at]leonardofilipe.com
+Feel free to email me if you have any doubt, suggestion, critique or proposal - contact at leonardofilipe.com
 
 #### License
 This code has been released under the [Apache 2.0 License](LICENSE)
