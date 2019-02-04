@@ -4,7 +4,7 @@
 
 Dependencies: Numpy; Scipy; Pandas; Matplotlib and Requests (for fetching Yahoo Finance data)
 
-####Difficulty
+#### Difficulty
 
 Basic:
 
