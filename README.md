@@ -6,6 +6,10 @@ Dependencies: Numpy; Scipy; Pandas; Matplotlib and Requests (for fetching Yahoo 
 
 #### Difficulty
 
+Moderate:
+
+[ML Based Pairs Trading](DecisionTreeRegression.ipynb) - Simple ML demonstration of a Decision Tree Regressor applied to the previous Pairs example
+
 Basic:
 
 [Long Only Pairs Trading](PairsTrading.ipynb) - A simple pairs trading strategy focused on buying the loser! Signal is given by rolling correlation
@@ -21,7 +25,7 @@ Market data last updated at 26 February 2019
 #### Who am I?
 I'm Leonardo, a 22 year old that just graduated from a Corporate Finance BS, looking forward to share (some) of my insights on quantitative investment strategies
 
-Feel free to email me if you have any doubt, suggestion, critique or proposal - contact at leonardofilipe.com
+Feel free to email me if you have any doubt, suggestion or critique - contact at leonardofilipe.com
 
 #### License
 This code has been released under the [Apache 2.0 License](LICENSE)
