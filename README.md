@@ -20,7 +20,7 @@ Introductory:
 
 [Geographical Diversification](GeographicDiversification.ipynb) - Hello (Financial) World
 
-Market data last updated at 26 February 2019
+Market data last updated at 1 March 2019
 
 #### Who am I?
 I'm Leonardo, a 22 year old that just graduated from a Corporate Finance BS, looking forward to share (some) of my insights on quantitative investment strategies
