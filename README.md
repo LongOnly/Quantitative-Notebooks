@@ -8,7 +8,7 @@ Dependencies: Numpy; Scipy; Pandas; Matplotlib and Requests (for fetching Yahoo 
 
 Moderate:
 
-[ML Based Pairs Trading](DecisionTreeRegression.ipynb) - Simple ML demonstration of a Decision Tree Regressor applied to the previous Pairs example
+[ML Based Pairs Trading](DecisionTreeRegressors.ipynb) - Simple ML demonstration of a Decision Tree Regressor applied to the previous Pairs example
 
 Basic:
 
