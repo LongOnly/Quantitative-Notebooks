@@ -8,7 +8,7 @@ Dependencies: Numpy; Scipy; Pandas; Matplotlib and Requests (for fetching Yahoo 
 
 Moderate:
 
-[ML Based Pairs Trading](DecisionTreeRegressors.ipynb) - Simple ML demonstration of a Decision Tree Regressor applied to the previous Pairs example
+[ML Based Pairs Trading](DecisionTreeRegressors.ipynb) - Simple Machine Learning demonstration of Decision Tree Regressors applied to the previous pair
 
 Basic:
 
@@ -20,7 +20,7 @@ Introductory:
 
 [Geographical Diversification](GeographicDiversification.ipynb) - Hello (Financial) World
 
-Market data last updated at 1 March 2019
+Market data last updated at 12 March 2019
 
 #### Who am I?
 I'm Leonardo, a 22 year old that just graduated from a Corporate Finance BS, looking forward to share (some) of my insights on quantitative investment strategies
