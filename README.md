@@ -1,14 +1,14 @@
-#### This is [my website](https://www.leonardofilipe.com) related repo where I publish trading algorithms for S&P500 stocks and market indexes!
+#### This is [my website](https://www.leonardofilipe.com) related repo where I publish some algorithms for S&P500 stocks and market indexes!
 
-#### The main objective is to be educational and help with idea generation, they're not appropriate for consumption since they are ~~overfitted~~ optimized but I'm aiming to publish some content on validation soon
+#### The main objective is helping with idea generation! Some of these 'strategies' might not be appropriate for consumption ~~due to overfitting~~ (it's meant to be educational)
 
-Dependencies: Numpy; Scipy; Pandas; Matplotlib and Requests (for fetching Yahoo Finance data)
+Dependencies: Numpy; Pandas; Matplotlib and Requests (for fetching Yahoo Finance data)
 
 #### Difficulty
 
 Moderate:
 
-[ML Based Pairs Trading](DecisionTreeRegressors.ipynb) - Simple Machine Learning demonstration of Decision Tree Regressors applied to the previous pair
+[ML Based Pairs Trading](DecisionTreeRegressors.ipynb) - A simple Machine Learning example, Decision Tree Regressors applied to the previous pair (also requires Scikit-Learn)
 
 Basic:
 
@@ -16,11 +16,9 @@ Basic:
 
 Introductory:
 
-[Dynamic Asset Allocation](DynamicAssetAllocation.ipynb) - Encouraging dynamic capital allocation (not rebalacing)! [#Think Bayes](https://github.com/AllenDowney/ThinkBayes2)
+[Dynamic Asset Allocation & Diversification](AssetAllocation.ipynb) - Exploring geographical diversification and optimizing capital allocation (also requires Scipy)
 
-[Geographical Diversification](GeographicDiversification.ipynb) - Hello (Financial) World
-
-Market data last updated at 18 March 2019
+Market data last updated at 4 April 2019
 
 #### Who am I?
 I'm Leonardo, a 23 year old currently enrolled in a Masters of Applied Econometrics and Forecasting, looking forward to share (some) of my insights on quantitative investment strategies
