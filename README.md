@@ -1,6 +1,4 @@
-#### This is [my website](https://www.leonardofilipe.com) related repo where I publish some algorithms for S&P500 stocks and market indexes!
-
-#### The main objective is helping with idea generation! Some of these 'strategies' might not be appropriate for consumption ~~due to overfitting~~ (it's meant to be educational)
+#### The main objective of this repo is idea generation! Some of these 'strategies' might not be appropriate for consumption ~~due to overfitting~~ (it's meant to be educational)
 
 Dependencies: Numpy; Pandas; Matplotlib and Requests (for fetching Yahoo Finance data)
 
@@ -18,7 +16,7 @@ Introductory:
 
 [Dynamic Asset Allocation & Diversification](AssetAllocation.ipynb) - Exploring geographical diversification and optimizing capital allocation (also requires Scipy)
 
-Market data last updated at 13 June 2019
+Market data last updated at 12 July 2019
 
 #### Who am I?
 I'm Leonardo, a 23 year old currently enrolled in a Masters of Applied Econometrics and Forecasting, looking forward to share (some) of my insights on quantitative investment strategies
