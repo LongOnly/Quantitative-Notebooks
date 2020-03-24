@@ -16,12 +16,7 @@ Introductory:
 
 [Dynamic Asset Allocation & Diversification](AssetAllocation.ipynb) - Exploring geographical diversification and optimizing capital allocation (also requires Scipy)
 
-Market data last updated at 1 October 2019
-
-#### Who am I?
-I'm Leonardo, a 23 year old currently enrolled in a Masters of Applied Econometrics and Forecasting, looking forward to share (some) of my insights on quantitative investment strategies
-
-Feel free to email me if you have any doubt, suggestion or critique - contact at leonardofilipe.com
+Market data last updated at 23 March 2020
 
 #### License
 This code has been released under the [Apache 2.0 License](LICENSE)
