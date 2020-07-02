@@ -16,7 +16,7 @@ Introductory:
 
 [Dynamic Asset Allocation & Diversification](AssetAllocation.ipynb) - Exploring geographical diversification and optimizing capital allocation (also requires Scipy)
 
-Market data last updated at 23 March 2020
+Market data last updated at 2 July 2020
 
 #### License
 This code has been released under the [Apache 2.0 License](LICENSE)
